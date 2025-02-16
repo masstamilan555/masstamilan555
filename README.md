@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **full-stack web projects using React, Node.js, and MongoDB.**  
 - 🌱 I’m currently learning **Next.js, TypeScript, and advanced backend development.**  
 - 👯 I’m looking to collaborate on **open-source web development and AI-integrated applications.**  
-- 🤔 I’m looking for help with **optimizing performance in large-scale web applications.**  
+- 🤔 I’m looking for help with **integrating AI features in my web applications.**  
 - 💬 Ask me about **React, JavaScript, Tailwind CSS, and full-stack development.**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love exploring AI tools and building side projects for fun!**  
